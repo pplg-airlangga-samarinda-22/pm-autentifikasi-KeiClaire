@@ -1,5 +1,5 @@
 <?php 
 session_start();
 session_destroy();
-header("location:login-petugas.php");
+header("location:login.php");
 ?>
