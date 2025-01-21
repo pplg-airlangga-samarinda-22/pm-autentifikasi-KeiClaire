@@ -3,7 +3,7 @@ session_start();
 require "../koneksi.php";
 
 if ($_SERVER['REQUEST_METHOD'] == 'GET') {
-    $id = $_GET['id'];
+    $id = $_GET ['id'];
     $sql = "SELECT * FROM pengaduan WHERE id_pengaduan=?";
     $row = $koneksi->execute_query($sql, [$id])->fetch_assoc();
     $nik = $row['nik'];

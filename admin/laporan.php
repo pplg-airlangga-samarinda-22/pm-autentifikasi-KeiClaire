@@ -11,7 +11,7 @@ require "../koneksi.php";
 <body>
     <a href="javascript:window.print();">Cetak</a>
     <h1>Laporan</h1>
-    <table>
+    <table border="1">
         <thead>
             <tr>
                 <th>No</th>

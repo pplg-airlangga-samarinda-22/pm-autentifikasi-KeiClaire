@@ -18,11 +18,11 @@ if (empty($_SESSION['level'])) {
     <h1>Selamat Datang di Sistem Pengaduan Masyarakat</h1>
     <nav>
         <a href="index.php">Dashboard</a>
-        <a href="pengaduan.php">Pengaduan</a>
-        <a href="masyarakat.php">Masyarakat</a>
-        <a href="petugas.php">Petugas</a>
-        <a href="laporan.php">Laporan</a>
-        <a href="logout.php">Logout</a>
+        <a href="pengaduan.php">| Pengaduan</a>
+        <a href="masyarakat.php">| Masyarakat</a>
+        <a href="petugas.php">| Petugas</a>
+        <a href="laporan.php">| Laporan</a>
+        <a href="logout.php">| Logout</a>
     </nav>
 </body>
 </html>

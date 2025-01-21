@@ -14,7 +14,7 @@ require "../koneksi.php";
     <h1>Data Petugas</h1>
     <a href="index.php">Kembali</a> <br>
     <a href="petugas-form.php">Tambah Petugas Baru</a>
-    <table>
+    <table border="1">
         <thead>
             <th>No</th>
             <th>Nama</th>

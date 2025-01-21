@@ -13,7 +13,7 @@
 <body>
     <h1>Halaman Pengaduan</h1>
     <a href="tambah-aduan.php">Tambah</a>
-    <table>
+    <table border="1">
         <thead>
             <th>No</th>
             <th>Tanggal</th>

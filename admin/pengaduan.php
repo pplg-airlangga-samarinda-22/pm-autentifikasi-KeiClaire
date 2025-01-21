@@ -14,7 +14,7 @@ require "../koneksi.php";
 <body>
     <h1>Data Pengaduan</h1>
     <a href="index.php">Kembali</a>
-    <table>
+    <table border="1">
         <thead>
             <tr>
                 <th>No</th>

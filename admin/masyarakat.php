@@ -15,7 +15,7 @@ require "../koneksi.php";
     <h1>Data Masyarakat</h1>
     <a href="index.php"><< Kembali</a> <br>
     <a href="masyarakat-form.php">Tambah Masyarakat</a>
-    <table>
+    <table border="1">
         <thead>
             <tr>
                 <th>No</th>
